@@ -1,0 +1,2 @@
+# human_activity_recognition_using_smartphone
+machine learning 
